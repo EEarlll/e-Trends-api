@@ -51,7 +51,7 @@ app.get("/api/relatedTopics", (req, res) => {
   const user_keyword = ids[1];
 
   googleTrends
-    .interestOverTime({
+    .relatedTopics({
       keyword: user_keyword,
       startTime: startTime,
       endTime: endTime,
