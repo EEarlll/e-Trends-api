@@ -7,7 +7,7 @@ The application is built using the Express framework and utilizes the `google-tr
 
 ## Deployed on Vercel
 
-The application is deployed on Vercel, a cloud platform for static and serverless deployments. You can access the deployed application at [https://your-app.vercel.app](https://e-trends-api.vercel.app/).
+The application is deployed on Vercel, a cloud platform for static and serverless deployments. You can access the deployed application at https://e-trends-api.vercel.app/.
 
 ## Prerequisites
 
